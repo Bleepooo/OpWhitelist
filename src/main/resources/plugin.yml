@@ -1,0 +1,3 @@
+name: Opwhitelist
+version: '${project.version}'
+main: dev.bleepo.Main
